@@ -2,6 +2,8 @@
 
 > A simple blog website that lets you compose new posts, and updates the home page accordingly when you publish them. Each new post dynamically creates its own respective page with a unique URL.
 
+> *Built with EJS/HTML, CSS, JavaScript, and Node.js. The app runs on a local server using Express.js.*
+
 ## Prerequisites
 
 This project requires NodeJS (version 18 or later) and NPM. [Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
@@ -43,4 +45,4 @@ Navigate to http://localhost:3000/ on your browser and you should see the app ru
 
 To **quit** running the application, use `Ctrl+C` in the terminal.
 
-Enjoy playing around with this simple blog website!
+### Enjoy playing around with this blog website!
